@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+
+}
+
+.App {
+  background-image: url("../public/images/login-background.jpg");
+  background-position: center;
+  background-size: cover;
+}

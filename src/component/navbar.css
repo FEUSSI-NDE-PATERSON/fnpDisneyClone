@@ -1,0 +1,7 @@
+@media screen and (max-width: 750px) and (min-width: 950px) {
+    .fnp {
+      visibility: hidden;
+      background-color: blue;
+    }
+  }
+  
